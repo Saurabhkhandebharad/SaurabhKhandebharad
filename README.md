@@ -9,23 +9,33 @@ I am a Data Science and Machine Learning enthusiast, complemented by good coding
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="R Studio" width="30px" style="padding-right:10px;" src=<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-plain.svg"/>
+<img align="left" alt="RStudio" width="30px" style="padding-right:10px;" src=<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" />
+          
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src=<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-
-<img align="left" alt="Numpy" width="30px" style="padding-right:10px;" src=<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src=<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src=
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
+          
+<img align="left" alt="Numpy" width="30px" style="padding-right:10px;" src=
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
+          
 
 <img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src=
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+          
 
-<img align="left" alt="TensorFlow" width="30px" style="padding-right:10px;" src=<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
+<img align="left" alt="TensorFlow" width="30px" style="padding-right:10px;" src=
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-line-wordmark.svg" />
 
-<img align="left" alt="OpenCV" width="30px" style="padding-right:10px;" src=<img src=<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" />
+<img align="left" alt="OpenCV" width="30px" style="padding-right:10px;" src=
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg" />
+          
           
 <img align="left" alt="Apache" width="30px" style="padding-right:10px;" src=
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" />
+          
   
-<img align="left" alt="AWS" width="30px" style="padding-right:10px;" src=<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+<img align="left" alt="AWS" width="30px" style="padding-right:10px;" src=
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
 
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
