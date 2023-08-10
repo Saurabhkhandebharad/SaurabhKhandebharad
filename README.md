@@ -33,7 +33,7 @@ I am a passionate Data Science and Machine Learning enthusiast with an advanced 
 
 <img align="left" alt="Tableau" width="100px" style="padding-right:10px;" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
 
-<img align="left" alt="ChatGPT" width="100px" style="padding-right:10px;" src="![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)" />
+<img align="left" alt="ChatGPT" width="50px" style="padding-right:10px;" src="![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)" />
 
 
 
