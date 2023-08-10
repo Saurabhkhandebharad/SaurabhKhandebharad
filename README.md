@@ -2,7 +2,7 @@
 
 **`Reader, Engineer, Coder`**
 ### Hi there 👋
-I am a passionate Data Science and Machine Learning enthusiast with strong coding and analytical skills. Proficient in data analysis, visualization techniques including Power BI and Tableau, data pre-processing, and feature engineering. I possess expertise in a variety of machine learning models and data science libraries. Additionally, I am well-versed in Big Data methodologies, hold an AWS certification, and excel at translating complex data into actionable insights, leveraging my visualization skills.
+I am a passionate Data Science and Machine Learning enthusiast with an advanced degree in Big Data Analytics, backed by strong coding and analytical skills. I am proficient in data analysis, utilizing visualization techniques including Power BI and Tableau, as well as adept in data pre-processing and feature engineering. I possess expertise across a variety of machine learning models and data science libraries. Moreover, I am well-versed in Big Data methodologies, holding an AWS certification. My forte lies in translating intricate data into actionable insights, leveraging my adept visualization skills.
 
 ---
 ### 🧰 Languages and Tools
